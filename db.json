@@ -33,7 +33,7 @@
       "@type": "Potato",
       "id": "5",
       "name": "Red",
-      "description": "Awesome friend who really shines with butter and parsley."
+      "description": "Awesome friend who really shines with butter and parsely."
     },
     {
       "@context": "https://schema.org",
@@ -41,7 +41,9 @@
       "id": "6",
       "name": "Blue",
       "description": "Who the hell needs a blue friend?"
-    },
+    }
+  ],
+    "users": [
     {
       "@context": "https://schema.org",
       "@type": "Person",
@@ -49,7 +51,7 @@
       "name": "Robin the Red",
       "description": "My sensational friend",
       "itemId": "2"
-    }
+    },
    {
       "@context": "https://schema.org",
       "@type": "Person",
